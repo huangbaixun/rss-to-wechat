@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.2] - 2026-03-18
+
+### Changed
+- 调整所有字号小 1 号，提升移动端阅读体验
+  - 品牌名"AI晚知道"：32px → 28px（头部），24px → 20px（结尾）
+  - Slogan：13px → 12px
+  - 日期栏：14px → 13px
+  - 板块标签：11px → 10px
+  - 大标题：24px → 22px
+  - 章节标题：18px → 17px
+  - 正文：14px → 13px
+  - 列表项标题：14px → 13px
+  - 列表项描述：13px → 12px
+  - 数据卡片标签：11px → 10px
+  - 数据卡片数值：16px → 15px
+  - 提示框/警告框：13px → 12px
+  - 原文链接：12px → 11px，11px → 10px
+  - 结尾说明：12px → 11px
+
+### Improved
+- 移动端阅读体验优化
+- 字号层级更清晰
+- 视觉密度更合理
+
 ## [1.0.1] - 2026-03-07
 
 ### Changed
